@@ -83,6 +83,10 @@ EQUIPPED
 ## Battle Log
 
 <p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph for iwasawarenji954" />
+</p>
+
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=iwasawarenji954&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats for iwasawarenji954" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwasawarenji954&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages for iwasawarenji954" />
 </p>
@@ -97,6 +101,7 @@ EQUIPPED
 [x] Created the special profile repository
 [x] Escaped the default README
 [x] Pushed the first custom profile
+[x] Opened the 3D contribution map portal
 [ ] Add the first featured project
 [ ] Add a demo GIF
 [ ] Make the profile feel like a tiny game
