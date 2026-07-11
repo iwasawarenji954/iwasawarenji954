@@ -83,7 +83,7 @@ EQUIPPED
 ## Battle Log
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph for iwasawarenji954" />
+  <img src="./profile-3d-contrib/profile-green.svg" alt="3D contribution graph for iwasawarenji954" />
 </p>
 
 <p align="center">
